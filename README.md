@@ -57,8 +57,8 @@ The easiest way to use Shortcut Maker is the ready-made `.exe`:
 **Install & run**
 
 ```bash
-git clone https://github.com/<your-username>/shortcut-maker.git
-cd shortcut-maker
+git clone https://github.com/Agravix/ShortcutMaker.git
+cd ShortcutMaker
 pip install PyQt6
 python shortcut_maker.py
 ```
