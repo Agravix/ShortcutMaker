@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 <!-- Put a screenshot at docs/screenshot.png and it will show up here -->
-<img src="docs/" alt="Shortcut Maker screenshot" width="820">
+<img src="docs/shcm.png" alt="Shortcut Maker screenshot" width="820">
 
 </div>
 
